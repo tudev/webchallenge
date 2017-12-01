@@ -19,4 +19,4 @@ Below is a project idea to create a resume website.
 ### Part 3 - CSS
 - You have a stylesheet already referenced! Edit the stylesheet to make your website look how 
 you want it to look!
-- (Click here for a CSS Tutorial)[https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works]
+- [Click here for a CSS Tutorial](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works)
