@@ -1,4 +1,4 @@
-HTML Challenge - Local Hackday 2017
+# HTML Challenge - Local Hackday 2017
 -----------------------------------
 
 ## Welcome to Local Hackday 2017!
