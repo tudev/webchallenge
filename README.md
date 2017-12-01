@@ -1,5 +1,4 @@
 # HTML Challenge - Local Hackday 2017
------------------------------------
 
 ## Welcome to Local Hackday 2017!
 Below is a project idea to create a resume website.
